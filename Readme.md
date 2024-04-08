@@ -4,7 +4,7 @@
 ### видео разбор с моего канала [YouTube](https://www.youtube.com/watch?v=OWI6nvIMIH4&t=1s)
 ### разбор данных примеров в текстовом формате представлен в моих статьях 
  - [на Хабре]()
- - [на Дзене]() 
+ - [на Дзене](https://dzen.ru/a/ZhDezQStdRWlHhen) 
 
 ### комьюнити канал в [telegram](https://t.me/boost_for_java)
 
